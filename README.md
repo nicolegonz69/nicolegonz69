@@ -1,8 +1,6 @@
 ## HOLAAAAAA :33333
 
 - 👋 Hi, I’m @nicolegonz69
-
-README:3
 - 👀 I’m interested in math, science and technology, that's why I'm here. :D
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on some videogames or AI projects.
